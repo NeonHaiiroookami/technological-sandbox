@@ -1,0 +1,35 @@
+========================================================================
+					Modpack Branding & Assembly Notice
+========================================================================
+
+Technological Sandbox
+Copyright 2026 Yoshirō "Woody" Takada
+
+This product includes software developed by Yoshirō "Woody" Takada
+and is licensed under the Apache License, Version 2.0.
+
+========================================================================
+			Third-Party Asset & Alternative Licensing Notices
+========================================================================
+
+The Technological Sandbox's loading screen and main menu logos
+are located in `config/fancymenu/assets/` are treated as
+separate subcomponents and are distributed under the terms of
+the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0) License.
+
+Copyright 2026 Yoshirō "Woody" Takada
+Full license terms can be viewed at:
+https://creativecommons.org/licenses/by-nc-sa/4.0
+
+------------------------------------------------------------------------
+
+The font used as the English branding of the Technological Sandbox logo
+and its "TS" branding (Control Freak Upset) was created by Graham Meade
+(https://www.1001fonts.com/control-freak-font.html)
+Copyright 2001 Apostrophic Labs. All Rights Reserved.
+
+The font used as the Japanese branding of the Technological Sandbox logo
+(Sunghyun Sans JP)
+was created by Sunghyun Cho (https://cho.sh/mini/sans)
+Copyright 2026 Sunghyun Sans Project Authors. All Rights Reserved.

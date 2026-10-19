@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "§7Minimalistic GUI and HUD in §2Bedrock Edition §7style",
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 34
+    }
+  },
+  "meta": {
+    "game_version": "1.21"
+  }
+}

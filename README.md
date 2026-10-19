@@ -71,7 +71,7 @@ And more! (Other included mods can be seen in the dependencies)
 ## FAQ
 **Q: What are the system requirements of this modpack?**
 
-A: This modpack requires a modern, beefy PC with at least 8 GB of memory as the minimum and at least 16 GB of the recommend memory. This modpack also requires a system that supports OpenGL 4.6 as well.
+A: This modpack requires a modern, beefy PC with at least 8 GB of memory as the minimum and at least 16 GB of the recommend memory. This modpack also requires a system that supports OpenGL 4.6 as well. (Or if you're in macOS instead of Windows, it requires a Mac system that supports OpenGL 4.1.)
 
 **Q: Can I make a derivative of this modpack?**
 

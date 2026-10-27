@@ -74,18 +74,6 @@
 		[types.wood_type.beachparty]
 			palm = true
 
-		[types.wood_type.bloomingnature]
-			larch = true
-			baobab = true
-			swamp_oak = true
-			aspen = true
-			fan_palm = true
-			fir = true
-			swamp_cypress = true
-			ebony = true
-			chestnut = true
-			cypress = true
-
 		[types.wood_type.autumnity]
 			maple = true
 
@@ -167,6 +155,18 @@
 			white = true
 			yellow = true
 			weeping_gala = true
+
+		[types.wood_type.bloomingnature]
+			aspen = true
+			baobab = true
+			larch = true
+			ebony = true
+			chestnut = true
+			swamp_oak = true
+			swamp_cypress = true
+			fan_palm = true
+			fir = true
+			cypress = true
 
 		[types.cake.natures_spirit]
 			cheese_block = true
@@ -358,20 +358,6 @@
 		[types.leaves_type.beachparty]
 			palm = true
 
-		[types.leaves_type.bloomingnature]
-			larch = true
-			baobab = true
-			orange = true
-			swamp_oak = true
-			aspen = true
-			fan_palm = true
-			fir = true
-			swamp_cypress = true
-			ebony = true
-			chestnut = true
-			cypress = true
-			blooming_oak = true
-
 		[types.leaves_type.autumnity]
 			maple = true
 			yellow_maple = true
@@ -468,6 +454,20 @@
 			red = true
 			white = true
 			yellow = true
+
+		[types.leaves_type.bloomingnature]
+			aspen = true
+			baobab = true
+			larch = true
+			ebony = true
+			chestnut = true
+			swamp_oak = true
+			swamp_cypress = true
+			fan_palm = true
+			fir = true
+			cypress = true
+			orange = true
+			blooming_oak = true
 
 		[types.lantern.biomeswevegone]
 			blue_glow_bottle = true

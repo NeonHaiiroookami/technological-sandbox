@@ -13113,6 +13113,402 @@
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
   },
+  "bigreactors:anglesite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "bigreactors:basic_reactorcasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorchargingportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorcontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorcontrolrod": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorfuelrod": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorpowertapfe_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorpowertapfe_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorredstoneport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_reactorsolidaccessport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinecasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinechargingportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinecontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinecreativesteamgenerator": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinefluidport_forge_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinefluidport_forge_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbineglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinepowertapfe_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinepowertapfe_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbineredstoneport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinerotorbearing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinerotorblade": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:basic_turbinerotorshaft": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:benitoite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "bigreactors:blutonium_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:blutonium_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:cryomisi_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:cyanite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:cyanite_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:deepslate_yellorite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "bigreactors:energizercasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:energizercell": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:energizerchargingportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:energizercomputerport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:energizercontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:energizerpowerportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:energizerstatus": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizercasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizercontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizerfluidinjector": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizerglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizeroutputport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizerpowerport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:fluidizersolidinjector": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:graphite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:inanite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:insanite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:ludicrite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:magentite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:magentite_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:raw_yellorium_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:redfrigium_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:reinforced_reactorcasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorchargingportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorcomputerport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorcontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorcontrolrod": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorcreativewatergenerator": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorfluidaccessport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorfluidport_forge_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorfluidport_forge_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorfluidport_mekanism_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorfuelrod": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorpowertapfe_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorpowertapfe_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorredstoneport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_reactorsolidaccessport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinecasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinechargingportfe": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinecomputerport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinecontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinecreativesteamgenerator": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinefluidport_forge_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinefluidport_forge_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbineglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinepowertapfe_active": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinepowertapfe_passive": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbineredstoneport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinerotorbearing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinerotorblade": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reinforced_turbinerotorshaft": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorcasing": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorcollector": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorcontroller": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorfluidinjector": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorglass": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessoroutputport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorpowerport": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:reprocessorwasteinjector": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "bigreactors:ridiculite_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:rossinite_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:steam": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:tangerium_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:verderium_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "bigreactors:yellorite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "bigreactors:yellorium_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.6
+  },
+  "bigreactors:yellorium_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
   "biomeswevegone:allium_flower_bush": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6

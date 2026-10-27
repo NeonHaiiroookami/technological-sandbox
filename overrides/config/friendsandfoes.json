@@ -9,7 +9,7 @@
 	"copperGolemAncientCityCenterWeight": 10,
 	"enableCopperGolemsInTrialChambers": false,
 	"copperGolemInTrialChambersWeight": 4,
-	"enableLightningRodOxidation": true,
+	"enableLightningRodOxidation": false,
 	"enableCrab": true,
 	"enableCrabSpawn": true,
 	"crabSpawnWeight": 14,

@@ -3,5 +3,5 @@
 	QoL = false
 
 [performance]
-	#Allows AE2TB to look up AE storage amounts for recipe-viewer bookmark entries. Disable this on the server/common config to skip the bookmark amount lookup entirely if it causes performance issues.
+	#Allows AE2TB to look up AE storage amounts for recipe-viewer bookmarks and ingredient lists. Disable this on the server/common config to skip amount lookup entirely if it causes performance issues.
 	enableBookmarkAmountCounting = true

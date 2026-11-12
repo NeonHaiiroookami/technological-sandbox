@@ -123,6 +123,12 @@
     "wt_master_location": true,
     "wt_owner": true
   },
+  "ae2lt": {
+    "frequency_card_wireless_node": true,
+    "lightning_collector": true,
+    "wireless_energy": true,
+    "firmament_conversion_core": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
@@ -151,13 +157,6 @@
   "barbequesdelight": {
     "grill": true
   },
-  "securitycraft": {
-    "showowner": true,
-    "showmodules": true,
-    "entity_info": true,
-    "block_info": true,
-    "showcustomname": true
-  },
   "storagedrawers": {
     "display.stacklimit": true,
     "main": true,
@@ -185,9 +184,6 @@
   "modern_industrialization": {
     "overclock": true,
     "pipe": true
-  },
-  "create_electro_energetics": {
-    "create_electro_energetics_tooltip": true
   },
   "balm": {
     "jade": true

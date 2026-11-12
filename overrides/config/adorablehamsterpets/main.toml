@@ -150,9 +150,9 @@ acornFluteAntiSpamCooldownTicks = 10
 # If true, all baby hamsters are guaranteed to receive a breeding overlay, regardless of whether their parents had them. Reduces the total number of possible outcomes.
 forceBreedingOverlay = false
 # How much the baby's base color tends to deviate from the exact mathematical center between its parents. Higher values mean the baby could look much more like Parent A or Parent B, rather than a perfect mix.
-geneticVariance = 0.1
+geneticVariance = 0.25
 # How much random 'scatter' is added to the baby's color across all dimensions (Hue, Saturation, Brightness). Higher values mean the baby could end up a completely unexpected color instead of a mixture between the two parents.
-geneticMutationRate = 0.3
+geneticMutationRate = 1.0999999999999999
 # How many theoretical babies the 3D visualizer calculates every tick (20 ticks = 1 second) to build the probability particle cloud. Each particle spawned represents a baby hamster. Higher numbers create a denser, clearer picture of the genetic potential.
 simulatedOffspringPerTick = 20
 # If true, the particles used in the genetics visualization command to mark the edge of the cylinder will spawn continuously. If false, they will only spawn for the first second to indicate the edges, then they will disappear.

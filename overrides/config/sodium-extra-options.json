@@ -33,7 +33,7 @@
       "atmospheric": {
         "distance_chunks": 0,
         "start_percent": 100,
-        "shape_mode": "VANILLA",
+        "shape_mode": "RADIAL",
         "cloud_fog_percent": 100
       },
       "dimension_overrides": {},

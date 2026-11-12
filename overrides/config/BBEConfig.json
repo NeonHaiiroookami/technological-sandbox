@@ -6,7 +6,7 @@
     },
     {
       "option": "misc.shademode",
-      "value": 1
+      "value": 0
     },
     {
       "option": "optimize.chest",
@@ -86,7 +86,7 @@
     },
     {
       "option": "misc.update_scheduler",
-      "value": 0
+      "value": 1
     }
   ],
   "bbe.config.storage.experimental": []

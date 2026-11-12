@@ -1,3 +1,5 @@
 [display]
 	#Shows AE storage amounts on JEI/EMI/REI bookmark entries when the terminal supports bookmark amount rendering.
 	showBookmarkAmounts = true
+	#Shows AE storage amounts in the JEI/EMI ingredient list when the terminal supports amount rendering.
+	showIngredientListAmounts = false

@@ -6,6 +6,7 @@
 			azalea = true
 			coconut = true
 			walnut = true
+			maple = true
 
 		[types.wood_type.natures_spirit]
 			redwood = true
@@ -285,6 +286,10 @@
 		[types.leaves_type.ecologics]
 			coconut = true
 			walnut = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			green_maple = true
 
 		[types.leaves_type.mcwholidays]
 			yellow_oak = true

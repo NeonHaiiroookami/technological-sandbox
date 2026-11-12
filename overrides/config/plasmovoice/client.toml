@@ -20,6 +20,7 @@ input_device = ""
 output_device = ""
 disable_input_device = false
 use_javax_input = false
+input_backend = "AUTO"
 microphone_volume = 1.0
 noise_suppression = false
 volume = 1.0
